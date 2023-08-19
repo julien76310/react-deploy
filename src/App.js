@@ -1,5 +1,5 @@
 
-import catGif from "./ic_launcher-web.png"
+import catGif from "ic_launcher-web.png"
 import './App.css';
 
 function App() {
